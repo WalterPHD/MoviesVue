@@ -18,7 +18,7 @@
         </p>
         <p>
           Colabore com este projeto ou veja mais detalhes no
-          <a href="https://github.com/usuario/projeto" target="_blank">GitHub</a>.
+          <a href="https://github.com/WalterPHD/MoviesVue" target="_blank">GitHub</a>.
         </p>
       </div>
     </div>
